@@ -7,6 +7,7 @@
 * [C Sharp](#c-sharp)
 * [C++](#c++)
 * [Database](#database)
+  * [SQL](#sql)
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
@@ -67,6 +68,12 @@
 ### Database
 
 * [Basi di dati](https://www.youtube.com/playlist?list=PLgaOrAQwrg9JZs6dbDolNlShHFgpJSChj) (M. De Ghetto)
+* [Basi di Dati](https://www.youtube.com/playlist?list=PLAQopGWlIcyZ7CN1sefdnCusfoodLP931) (T. Catarci)
+
+
+#### SQL
+
+* [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) (F. Camuso)
 
 
 ### Delphi

@@ -243,6 +243,7 @@
 * [Standard Template Library プログラミング](https://web.archive.org/web/20170607163002/http://episteme.wankuma.com/stlprog/) - επιστημη
 * [お気楽Ｃ++プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/cpp.html) - 広井誠
 * [ロベールのＣ＋＋教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/) - ロベール
+* [江添亮のC++入門](https://ezoeryou.github.io/cpp-intro/) - 江添亮
 
 
 ### CoffeeScript
@@ -641,7 +642,8 @@
 
 ### TypeScript
 
-* [TypeScript クイックガイド](http://phyzkit.net/typescript/) - @KDKTN
+* [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
+* [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript/) - labs42io, 酒巻 瑞穂(翻訳)
 
 
 ### VBA
